@@ -21,6 +21,7 @@ export default function Ticker() {
               borderBottomLeftRadius: '6px'
             }}
           >
+            
             <span className="text-black font-extrabold text-[12px] pl-6 tracking-widest uppercase">
               HOT TOPICS
             </span>
@@ -35,7 +36,7 @@ export default function Ticker() {
                 <div className="w-[98%] lg:w-[94%] h-[2px] bg-[#00338D] transition-transform origin-left group-hover:scale-x-[1.02]"></div>
                 
                 {/* Text paragraph */}
-                
+
                 <p className="text-[13px] xl:text-[13.5px] 2xl:text-[14.5px] text-[#2c2c2c] font-medium leading-[1.5] mt-[14px] pr-2 xl:pr-4">
                   {text}
                 </p>
