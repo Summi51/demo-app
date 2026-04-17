@@ -1,4 +1,4 @@
-# HLS Global Demo App
+# HLS Global Assignment App
 
 A modern, responsive website for HLS Global Group built with Next.js 16, React 19, and Tailwind CSS.
 
@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser
+3. Deployment Link [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Available Scripts
 
